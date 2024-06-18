@@ -19,7 +19,6 @@ export const projectData = [
       "ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
     ],
-    link: "https://www.google.co.in",
   },
   
   
@@ -33,7 +32,6 @@ export const projectData = [
       "ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
     ],
-    link: "https://www.google.co.in",
   },
   {
     image:
@@ -45,7 +43,6 @@ export const projectData = [
       "ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
     ],
-    link: "https://www.google.co.in",
   },
   {
     image:
@@ -57,7 +54,6 @@ export const projectData = [
       "ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
     ],
-    link: "https://www.google.co.in",
   },
 ];
 
