@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  /* background-color: black; */
+  background-image: url("https://i.pinimg.com/564x/7f/e2/2b/7fe22bcbf01a4886970f4a8786effe37.jpg");
+  color: whitesmoke;
+}
+
+.app{
+  padding: 0 9%;
+}

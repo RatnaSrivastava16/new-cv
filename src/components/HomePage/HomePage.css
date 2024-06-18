@@ -1,0 +1,67 @@
+
+.homepage_container{
+    display: flex;
+    align-items: center;
+    height: 90vh;
+}
+
+.homepage_left{
+    flex: 0.6;
+    padding-right: 30px;
+
+}
+
+.homepage_left_h1{
+    font-size: 22px;
+    color: antiquewhite;
+}
+.red_color{
+    color: red;
+}
+
+.homepage_left_h2{
+    font-size: 48px;
+    font-weight: 700;
+    color:floralwhite;
+}
+
+.homepage_left_h3{
+    font-size: 25px;
+    color: floralwhite;
+}
+
+.homepage_left_description{
+    margin-top: 5px;
+    font-size: 18px;
+    color: rgb(249, 239, 227);
+}
+.homepage_logo{
+    height: 60px;
+    margin: 15px 0;
+}
+.homepage_logo:hover{
+    height: 65px;
+}
+.homepage_left_button{
+    margin-top: 25px;
+    font-size: 20px;
+    padding: 8px 10px;
+    background-color: black;
+    color: rgb(123, 214, 25);
+    cursor: pointer;
+    text-decoration: none;
+}
+.homepage_left_button:hover{
+    font-size: 22px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.homepage_right{
+    flex: 0.4;
+}
+
+.homepage_right > img{
+    width: 100%;
+    
+}
