@@ -8,6 +8,7 @@ import python from "../assets/python.png";
 import portfolio from "../assets/portfolio.png";
 import historical from "../assets/history.png";
 import restaurent from "../assets/restaurent.jpg";
+import tic_tac_toe from "../assets/tic-tac-toe.png";
 
 export const projectData = [
   {
@@ -23,9 +24,8 @@ export const projectData = [
   
   
   {
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
-    title: "Ecomm Website",
+    image: tic_tac_toe,
+    title: "Tic-Tac-Toe",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
@@ -34,9 +34,8 @@ export const projectData = [
     ],
   },
   {
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
-    title: "Ecomm Website",
+    image: historical,
+    title: "Historical Monuments of India",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
@@ -45,9 +44,8 @@ export const projectData = [
     ],
   },
   {
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
-    title: "Ecomm Website",
+    image: restaurent,
+    title: "Restaurent Website",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
       "amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
